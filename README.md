@@ -1,13 +1,13 @@
 <img width="100%" height="auto"  src="img/coding-freak.gif" />
 
 
-<h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Sandeep Kumar (Sanu)✨</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/s06Gjvmi4ocAAAAi/kawaii-cute.gif" width="auto" height="40px">, I'm Rahul Kumar ✨</h1>
 
 -🔭 I’m currently a CSE student at Chandigarh University<br/>
-- 🌱 I’m currently learning Webdevelopement and DSA<br/>
-- 👯 I’m looking to work on AI/ML<br/>
+- 🌱 I’m currently learning Webdevelopement, Java and DSA  <br/>
+- 👯 I’m looking to work on web development<br/>
 - 😄 Pronouns: Web Developer<br/>
-- ⚡ Fun fact: I love Singing And Listinig Music<br/>
+- ⚡ Fun fact: I love to read books.<br/>
 <br/>
 ### Language :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
